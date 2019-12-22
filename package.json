@@ -1,0 +1,9 @@
+{
+  "name": "backend-gobarber",
+  "version": "1.0.0",
+  "author": {
+    "name": "Enrique Mora"
+  },
+  "main": "./src/index.js",
+  "license": "MIT"
+}
